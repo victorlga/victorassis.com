@@ -15,18 +15,17 @@ export function App() {
             <p className="text-gray-400 mt-4">
               I am a computational biology researcher and computer engineering undergraduate student at Insper -
               Instituto de Ensino e Pesquisa (Brazil). My work focuses on developing computational models to understand
-              biological systems and tools to help researchers in their own research.
+              biological systems and tools to help researchers in their own work.
             </p>
             <p className="text-gray-400 mt-4">
               My research interests include single-cell omics, machine learning, and drug discovery. I am currently a
-              research intern at University of Cincinnati College of Medicine's THINK Lab, where I am focusing on the
-              development of tools to facilitate omics and health research under the supervision of Lucas Bulgarelli.
+              research intern at University of Cincinnati College of Medicine's THINK Lab, where I am working under
+              the supervision of Lucas Bulgarelli.
             </p>
             <p className="text-gray-400 mt-4">
-              Previus to that, I was working on automatic single-cell annotation as a volunteer researcher at the
-              Computational Systems Biology Lab at São Paulo University (USP) under the supervision of Prof. Dr. Helder
-              Nakaya. On a past live, I also worked as a Product & Data Analyst at a BNPL Colombian startup called Addi,
-              backed by Andreessen Horowitz.
+              On a past live, I worked as a Product Analyst at a BNPL colombian startup called Addi, backed
+              by Andreessen Horowitz. I also owned a software company called Cowala, where me and some college friends
+              selled software development services.
             </p>
             <p className="text-gray-400 mt-4">
               I recently got selected to participate in the 2024 Summer Research Program at the University of Illinois
@@ -34,16 +33,14 @@ export function App() {
               partnership between Insper and the University of Illinois at Urbana-Champaign. Thanks, Insper!
             </p>
             <p className="text-gray-400 mt-4">
-              My goal is to pursue a PhD in computational biology and, by the end of my doctoral studies, to start my
-              own biotech company. I am currently looking for a PhD position in computational biology or related fields.
-              If you are interested in my work, please feel free to contact me at hey@victorassis.com or by clicking the
-              mail icon below.
+              If you are interested in my work or just want to chat, please feel free to contact me at hey@victorassis.com
+              or by clicking the mail icon below.
             </p>
             <img
               alt="Victor Assis"
               className="mt-8 mx-auto w-48 h-48 object-cover rounded-full border-4 border-gray-700"
               height="200"
-              src="/placeholder.svg"
+              src="/profilePicture.png"
               style={{
                 aspectRatio: "200/200",
                 objectFit: "cover",
