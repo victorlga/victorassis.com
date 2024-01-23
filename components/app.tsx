@@ -1,4 +1,5 @@
 import Link from "next/link"
+import Image from "next/image"
 
 export function App() {
   return (
@@ -14,7 +15,7 @@ export function App() {
             </p>
             <p className="text-gray-400 mt-4">
               My research interests include single-cell omics, machine learning, and drug discovery. I am currently a
-              research intern at University of Cincinnati College of Medicine's THINK Lab, where I am working under
+              research intern at University of Cincinnati College of Medicine&apos;s THINK Lab, where I am working under
               the supervision of Lucas Bulgarelli and Rodrigo Deliberato, PhD.
             </p>
             <p className="text-gray-400 mt-4">
@@ -30,16 +31,12 @@ export function App() {
               If you are interested in my work or just want to chat, please feel free to contact me at hey@victorassis.com
               or by clicking the mail icon below.
             </p>
-            <img
+            <Image
               alt="Victor Assis"
               className="mt-8 mx-auto w-48 h-48 object-cover rounded-full border-4 border-gray-700"
-              height="200"
+              height={200}
               src="/profilePicture.png"
-              style={{
-                aspectRatio: "200/200",
-                objectFit: "cover",
-              }}
-              width="200"
+              width={200}
             />
             <div className="flex justify-center space-x-4 mt-8">
               <Link className="text-gray-400 hover:text-gray-300" href="https://world.hey.com/victor.assis/">
