@@ -19,7 +19,7 @@ export function App() {
               the supervision of Lucas Bulgarelli and Rodrigo Deliberato, PhD.
             </p>
             <p className="text-gray-400 mt-4">
-              On a past live, I worked as a Product Analyst at a BNPL colombian startup called Addi, backed
+              On a past live, I worked as a Product Analyst at a BNPL colombian startup called ADDI, backed
               by Andreessen Horowitz. I also owned a software company called Cowala, where me and some college friends
               selled software development services.
             </p>
