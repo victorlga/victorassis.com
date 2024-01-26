@@ -9,17 +9,17 @@ export function App() {
           <div className="mx-auto max-w-2xl bg-gray-800 p-8 rounded-lg shadow-lg">
             <h1 className="text-4xl font-bold text-gray-100">Victor Assis</h1>
             <p className="text-gray-400 mt-4">
-              I am a computational biology researcher and computer engineering undergraduate student at Insper -
-              Instituto de Ensino e Pesquisa (Brazil). My work focuses on developing computational models to understand
-              biological systems and tools to help researchers in their own work.
+              I am a computational biology researcher and computer engineering undergraduate student at Insper, Brazil.
+              My work focuses on developing computational models to understand biological systems and tools to help
+              researchers in their own work.
             </p>
             <p className="text-gray-400 mt-4">
-              My research interests include single-cell omics, machine learning, and drug discovery. I am currently a
-              research intern at University of Cincinnati College of Medicine&apos;s THINK Lab, where I am working under
-              the supervision of Lucas Bulgarelli and Rodrigo Deliberato, PhD.
+              Currently, I am engaged as a remote research intern at the University of Cincinnati College of Medicine,
+              working under the supervision of Lucas Bulgarelli and Dr. Rodrigo Deliberato. My research interests
+              include single-cell omics, machine learning, and drug discovery.
             </p>
             <p className="text-gray-400 mt-4">
-              On a past live, I worked as a Product Analyst at a BNPL colombian startup called ADDI, backed
+              On a past live, I worked as a Product & Data Analyst at a BNPL colombian startup called ADDI, backed
               by Andreessen Horowitz. I also owned a software company called Cowala, where me and some college friends
               selled software development services.
             </p>
@@ -28,7 +28,7 @@ export function App() {
               at Urbana-Champaign, where I will be working on (To be defined).
             </p> */}
             <p className="text-gray-400 mt-4">
-              If you are interested in my work or just want to chat, please feel free to contact me at hey@victorassis.com
+              If you are interested in my work or just want to chat, please feel free to contact me at victor.assis@hey.com
               or by clicking the mail icon below.
             </p>
             <Image
