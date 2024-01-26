@@ -24,12 +24,12 @@ export function App() {
               program in the USA by Fall 2026 and eventually pursuing a career as a biotech entrepreneur.
             </p> */}
             <p className="text-gray-400 mt-4">
-              Previously, I served as a Product & Data Analyst at ADDI, a Colombian BNPL startup backed by Andreessen Horowitz.
+              Previously, I served as a Product & Data Analyst at Addi, a Colombian BNPL startup backed by Andreessen Horowitz.
               I also co-founded Cowala, a software company where my college friends and I offered software development services.
             </p>
             <p className="text-gray-400 mt-4">
-            If you're interested in my work or would like to connect, please don't hesitate to reach out to me at
-            victor.assis@hey.com or through the mail icon below.
+              If you're interested in my work or would like to connect, please don't hesitate to reach out to me at
+              victor.assis@hey.com or through the mail icon below.
             </p>
             <Image
               alt="Victor Assis"
