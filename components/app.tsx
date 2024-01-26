@@ -28,7 +28,7 @@ export function App() {
               I also co-founded Cowala, a software company where my college friends and I offered software development services.
             </p>
             <p className="text-gray-400 mt-4">
-              If you're interested in my work or would like to connect, please don't hesitate to reach out to me at
+              If you&aposre interested in my work or would like to connect, please don&apost hesitate to reach out to me at
               victor.assis@hey.com or through the mail icon below.
             </p>
             <Image
