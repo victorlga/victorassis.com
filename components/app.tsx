@@ -10,8 +10,8 @@ export function App() {
             <h1 className="text-4xl font-bold text-gray-100">Victor Assis</h1>
             <p className="text-gray-400 mt-4">
               I am a computational biology researcher and computer engineering undergraduate student at Insper, Brazil.
-              My work focuses on developing computational models to understand biological systems and tools to help
-              researchers in their own work.
+              My work focuses on developing computational models for understanding biological systems and creating tools
+              to assist researchers in their endeavors.
             </p>
             <p className="text-gray-400 mt-4">
               Currently, I am engaged as a remote research intern at the University of Cincinnati College of Medicine,
