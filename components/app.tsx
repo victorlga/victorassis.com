@@ -15,21 +15,21 @@ export function App() {
             </p>
             <p className="text-gray-400 mt-4">
               Currently, I am engaged as a remote research intern at the University of Cincinnati College of Medicine,
-              working under the supervision of Lucas Bulgarelli and Dr. Rodrigo Deliberato. My research interests
-              include single-cell omics, machine learning, and drug discovery.
-            </p>
-            <p className="text-gray-400 mt-4">
-              On a past live, I worked as a Product & Data Analyst at a BNPL colombian startup called ADDI, backed
-              by Andreessen Horowitz. I also owned a software company called Cowala, where me and some college friends
-              selled software development services.
+              under the supervision of Lucas Bulgarelli and Dr. Rodrigo Deliberato. My research interests span
+              single-cell omics, machine learning, and drug discovery.
             </p>
             {/* <p className="text-gray-400 mt-4">
-              I recently got selected to participate in the 2024 Summer Research Program at the University of Illinois
-              at Urbana-Champaign, where I will be working on (To be defined).
+              This summer, I am excited to participate in the University of Illinois, Urbana-Champaign's summer research
+              program. My academic and career ambitions are centered on enrolling in a Computational Biology doctoral
+              program in the USA by Fall 2026 and eventually pursuing a career as a biotech entrepreneur.
             </p> */}
             <p className="text-gray-400 mt-4">
-              If you are interested in my work or just want to chat, please feel free to contact me at victor.assis@hey.com
-              or by clicking the mail icon below.
+              Previously, I served as a Product & Data Analyst at ADDI, a Colombian BNPL startup backed by Andreessen Horowitz.
+              I also co-founded Cowala, a software company where my college friends and I offered software development services.
+            </p>
+            <p className="text-gray-400 mt-4">
+            If you're interested in my work or would like to connect, please don't hesitate to reach out to me at
+            victor.assis@hey.com or through the mail icon below.
             </p>
             <Image
               alt="Victor Assis"
