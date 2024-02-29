@@ -11,19 +11,12 @@ export function App() {
             <h1 className="text-4xl font-bold text-gray-100">Victor Assis</h1>
             <p className="text-gray-400 mt-4">
               I am a computational biology researcher and computer engineering undergraduate student at Insper, Brazil.
-              My work focuses on developing computational models for understanding biological systems and creating tools
-              to assist researchers in their endeavors.
             </p>
             <p className="text-gray-400 mt-4">
               Currently, I am engaged as a remote research intern at the University of Cincinnati College of Medicine,
-              under the supervision of Lucas Bulgarelli and Dr. Rodrigo Deliberato. My research interests span
-              single-cell omics, machine learning, and drug discovery.
+              under the supervision of Lucas Bulgarelli and Rodrigo Deliberato, MD, PhD. My research interests span
+              single-cell omics, machine learning, and high-performance computing.
             </p>
-            {/* <p className="text-gray-400 mt-4">
-              This summer, I am excited to participate in the University of Illinois, Urbana-Champaign's summer research
-              program. My academic and career ambitions are centered on enrolling in a Computational Biology doctoral
-              program in the USA by Fall 2026 and eventually pursuing a career as a biotech entrepreneur.
-            </p> */}
             <p className="text-gray-400 mt-4">
               Previously, I served as a Product & Data Analyst at Addi, a Colombian BNPL startup backed by Andreessen Horowitz.
               I also co-founded Cowala, a software company where my college friends and I offered software development services.
