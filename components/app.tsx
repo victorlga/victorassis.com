@@ -10,12 +10,12 @@ export function App() {
           <div className="mx-auto max-w-2xl bg-gray-800 p-8 rounded-lg shadow-lg">
             <h1 className="text-4xl font-bold text-gray-100">Victor Assis</h1>
             <p className="text-gray-400 mt-4">
-              I am a computational biology researcher and computer engineering undergraduate student at Insper, Brazil.
+              I am a computer engineering undergraduate student at Insper, Brazil.
             </p>
             <p className="text-gray-400 mt-4">
               Currently, I am engaged as a remote research intern at the University of Cincinnati College of Medicine,
-              under the supervision of Lucas Bulgarelli and Rodrigo Deliberato, MD, PhD. My research interests span
-              single-cell omics, machine learning, and high-performance computing.
+              under the supervision of Lucas Bulgarelli and Rodrigo Deliberato, MD, PhD. My main areas of interests span
+              machine learning engineering, high performance and parallel computing.
             </p>
             <p className="text-gray-400 mt-4">
               Previously, I served as a Product & Data Analyst at Addi, a Colombian BNPL startup backed by Andreessen Horowitz.
@@ -33,9 +33,6 @@ export function App() {
               width={200}
             />
             <div className="flex justify-center space-x-4 mt-8">
-              <Link className="text-gray-400 hover:text-gray-300" href="https://world.hey.com/victor.assis/">
-                <TextIcon className="h-6 w-6" />
-              </Link>
               <Link className="text-gray-400 hover:text-gray-300" href="https://github.com/victorlga">
                 <GithubIcon className="h-6 w-6" />
               </Link>
@@ -59,20 +56,6 @@ export function App() {
 }
 
 type IconProps = React.SVGProps<SVGSVGElement>;
-
-function TextIcon(props: IconProps) {
-  return (
-<svg fill="#CCCCCC" height="30" width="30" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 511.999 511.999" stroke="#CCCCCC">
-
-<g id="SVGRepo_bgCarrier" stroke-width="0"/>
-
-<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
-
-<g id="SVGRepo_iconCarrier"> <g> <g> <path d="M421.578,190.264l-99.847-99.847c-2.439-2.439-6.391-2.439-8.829,0L82.824,320.495c-2.439,2.439-2.439,6.392,0,8.829 l99.847,99.847c2.439,2.439,6.391,2.439,8.829,0l230.078-230.078C424.017,196.655,424.017,192.703,421.578,190.264z"/> </g> </g> <g> <g> <path d="M506.511,87.672L424.323,5.484c-7.308-7.31-19.175-7.315-26.488,0l-49.616,49.616c-2.439,2.439-2.439,6.391,0,8.829 l99.847,99.847c2.439,2.437,6.391,2.437,8.829,0l49.616-49.616C513.826,106.847,513.826,94.987,506.511,87.672z"/> </g> </g> <g> <g> <path d="M508.133,491.11c-1.054-9.556-9.489-16.599-19.104-16.599H111.633l36.058-15.163c4.088-1.719,5.131-7.034,1.994-10.17 l-86.854-86.854c-3.137-3.135-8.451-2.094-10.17,1.994C52.224,365.359,2.052,484.66,1.627,485.707 c-5.815,13.208,4.855,27.01,18.107,26.263H489.52C500.566,511.97,509.379,502.408,508.133,491.11z"/> </g> </g> </g>
-
-</svg>
-    )
-}
 
 
 function GithubIcon(props: IconProps) {
