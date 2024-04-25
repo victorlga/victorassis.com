@@ -13,13 +13,13 @@ export function App() {
               I am a computer engineering undergraduate student at Insper, Brazil.
             </p>
             <p className="text-gray-400 mt-4">
-              Currently, I am engaged as a remote research intern at the University of Cincinnati College of Medicine,
-              under the supervision of Lucas Bulgarelli and Rodrigo Deliberato, MD, PhD. My main areas of interests span
-              machine learning engineering, high performance and parallel computing.
+              Currently, I am engaged as a research intern at the UC College of Medicine, under the supervision of Lucas
+              Bulgarelli and Rodrigo Deliberato, MD, PhD. My main areas of interests span machine learning engineering,
+              high performance and parallel computing.
             </p>
             <p className="text-gray-400 mt-4">
-              Previously, I served as a Product & Data Analyst at Addi, a Colombian BNPL startup backed by Andreessen Horowitz.
-              I also co-founded Cowala, a software company where my college friends and I offered software development services.
+              Previously, I served as a Data Analyst at Addi, a Colombian BNPL startup backed by Andreessen Horowitz. I also
+              co-founded Cowala, a software company where my college friends and I offered software development services.
             </p>
             <p className="text-gray-400 mt-4">
               If you&apos;re interested in my work or would like to connect, please don&apos;t hesitate to reach out to me at
