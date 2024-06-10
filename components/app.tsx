@@ -10,15 +10,16 @@ export function App() {
           <div className="mx-auto max-w-2xl bg-gray-800 p-8 rounded-lg shadow-lg">
             <h1 className="text-4xl font-bold text-gray-100">Victor Assis</h1>
             <p className="text-gray-400 mt-4">
-              I am a computer engineering undergraduate student at Insper, Brazil.
+              I am a computer engineering undergraduate student at Insper, Brazil. My main areas of interests span
+              computer architecture, high performance computing and software engineering. 
             </p>
             <p className="text-gray-400 mt-4">
-              Currently, I am engaged as a research intern at the UC College of Medicine, under the supervision of Lucas
-              Bulgarelli and Rodrigo Deliberato, MD, PhD. My main areas of interests span machine learning engineering,
-              high performance and parallel computing.
+              Currently, I am engaged as a summer research intern at the University of Illinois at Urbana-Champaing, under
+              the supervision of Prof. Mohammed El-Kebir, PhD. My research focuses on the development of algorithms for
+              phylogeny inference algorithms using C++.
             </p>
             <p className="text-gray-400 mt-4">
-              Previously, I served as a Data Analyst at Addi, a Colombian BNPL startup backed by Andreessen Horowitz. I also
+              Previously, I served as a Data Analyst at ADDI, a Colombian BNPL startup backed by Andreessen Horowitz. I also
               co-founded Cowala, a software company where my college friends and I offered software development services.
             </p>
             <p className="text-gray-400 mt-4">
