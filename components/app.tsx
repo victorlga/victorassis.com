@@ -19,7 +19,7 @@ export function App() {
               phylogeny inference algorithms using C++.
             </p>
             <p className="text-gray-400 mt-4">
-              Previously, I served as a Data Analyst at ADDI, a Colombian BNPL startup backed by Andreessen Horowitz. I also
+              Previously, I served as a Data Intern at ADDI, a Colombian BNPL startup backed by Andreessen Horowitz. I also
               co-founded Cowala, a software company where my college friends and I offered software development services.
             </p>
             <p className="text-gray-400 mt-4">
