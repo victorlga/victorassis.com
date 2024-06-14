@@ -11,12 +11,12 @@ export function App() {
             <h1 className="text-4xl font-bold text-gray-100">Victor Assis</h1>
             <p className="text-gray-400 mt-4">
               I am a computer engineering undergraduate student at Insper, Brazil. My main areas of interests span
-              computer architecture, high performance computing and software engineering. 
+              computer architecture, high performance computing and systems software engineering. 
             </p>
             <p className="text-gray-400 mt-4">
               Currently, I am engaged as a summer research intern at the University of Illinois at Urbana-Champaing, under
-              the supervision of Prof. Mohammed El-Kebir, PhD. My research focuses on the development of algorithms for
-              phylogeny inference algorithms using C++.
+              the supervision of Prof. Mohammed El-Kebir, PhD. My research focuses on the implementation of algorithms for
+              tumor phylogeny inference using C++.
             </p>
             <p className="text-gray-400 mt-4">
               Previously, I served as a Data Intern at ADDI, a Colombian BNPL startup backed by Andreessen Horowitz. I also
