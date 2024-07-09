@@ -30,7 +30,7 @@ export function App() {
               alt="Victor Assis"
               className="mt-8 mx-auto w-48 h-48 object-cover rounded-full border-4 border-gray-700"
               height={200}
-              src="/profilePicture.png"
+              src="/profile.jpg"
               width={200}
             />
             <div className="flex justify-center space-x-4 mt-8">
