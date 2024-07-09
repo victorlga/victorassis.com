@@ -29,9 +29,9 @@ export function App() {
             <Image
               alt="Victor Assis"
               className="mt-8 mx-auto w-48 h-48 object-cover rounded-full border-4 border-gray-700"
-              height={190}
-              src="/profile.jpg"
-              width={190}
+              height={200}
+              src="/profilePicture.png"
+              width={200}
             />
             <div className="flex justify-center space-x-4 mt-8">
               <Link className="text-gray-400 hover:text-gray-300" href="https://github.com/victorlga">
