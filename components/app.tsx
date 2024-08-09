@@ -29,7 +29,7 @@ export function App() {
             </p>
             <p className="text-gray-400 mt-4">
               If you&apos;re interested in my work or would like to connect, please don&apos;t hesitate to reach out to me at
-              victor.assis@hey.com or through the mail icon below.
+              victorluisgassis@gmail.com or through the mail icon below.
             </p>
             <Image
               alt="Victor Assis"
