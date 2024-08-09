@@ -15,7 +15,7 @@ export function App() {
             </p>
             <p className="text-gray-400 mt-4">
               Currently, I am engaged in my university capstone project in partnership with CTI Renato Archer, focusing on 
-              RISC-V IP development for aerospace applications in Brazil. I'm also seeking Data or Software Engineering 
+              RISC-V IP development for aerospace applications in Brazil. I&apos;m also seeking Data or Software Engineering 
               internship or junior positions starting in January 2025.
             </p>
             <p className="text-gray-400 mt-4">
@@ -45,7 +45,7 @@ export function App() {
               <Link className="text-gray-400 hover:text-gray-300" href="https://www.linkedin.com/in/victorlga/">
                 <LinkedinIcon className="h-6 w-6" />
               </Link>
-              <Link className="text-gray-400 hover:text-gray-300" href="mailto:victor.assis@hey.com">
+              <Link className="text-gray-400 hover:text-gray-300" href="mailto:victorluisgassis@gmail.com">
                 <MailIcon className="h-6 w-6" />
               </Link>
             </div>
@@ -60,6 +60,7 @@ export function App() {
     </div>
   )
 }
+
 
 type IconProps = React.SVGProps<SVGSVGElement>;
 
