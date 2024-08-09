@@ -11,16 +11,21 @@ export function App() {
             <h1 className="text-4xl font-bold text-gray-100">Victor Assis</h1>
             <p className="text-gray-400 mt-4">
               I am a computer engineering undergraduate student at Insper, Brazil. My main areas of interest span computer
-              architecture, high-performance computing, and embedded software engineering
+              architecture, high-performance computing, and data engineering.
             </p>
             <p className="text-gray-400 mt-4">
-              Currently, I am engaged as a summer research intern at the University of Illinois at Urbana-Champaing, under
-              the supervision of Prof. Mohammed El-Kebir, PhD. My research focuses on the implementation of algorithms for
+              Currently, I am engaged in my university capstone project in partnership with CTI Renato Archer, focusing on 
+              RISC-V IP development for aerospace applications in Brazil. I'm also seeking Data or Software Engineering 
+              internship or junior positions starting in January 2025.
+            </p>
+            <p className="text-gray-400 mt-4">
+              Previously, I served as a Summer Research Intern at the University of Illinois at Urbana-Champaign, under
+              the supervision of Prof. Mohammed El-Kebir, PhD. My research focused on implementing algorithms for
               tumor phylogeny inference using C++.
             </p>
             <p className="text-gray-400 mt-4">
-              Previously, I served as a Data Intern at ADDI, a Colombian BNPL startup backed by Andreessen Horowitz. I also
-              co-founded Cowala, a software company where my college friends and I offered software development services.
+              Earlier in my career, I worked as a Data Intern at ADDI, a Colombian BNPL startup backed by Andreessen Horowitz, 
+              and co-founded Cowala Software, where my college friends and I offered software development services.
             </p>
             <p className="text-gray-400 mt-4">
               If you&apos;re interested in my work or would like to connect, please don&apos;t hesitate to reach out to me at
