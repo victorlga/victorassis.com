@@ -10,11 +10,11 @@ export function App() {
           <div className="mx-auto max-w-2xl bg-gray-800 p-8 rounded-lg shadow-lg">
             <h1 className="text-4xl font-bold text-gray-100">Victor Assis</h1>
             <p className="text-gray-400 mt-4">
-              I am a computer engineering undergraduate student at Insper, Brazil. My main areas of interest span computer
-              architecture, high-performance computing, and data engineering.
+              I am a computer engineering undergraduate student at Insper, Brazil. My main areas of interest span
+              distributed systems, software and data engineering.
             </p>
             <p className="text-gray-400 mt-4">
-              Currently, I am engaged in my university capstone project in partnership with CTI Renato Archer, focusing on 
+              Currently, I am engaged in my university capstone project in partnership with CTI Renato Archer, working on 
               RISC-V IP development for aerospace applications in Brazil. I&apos;m also seeking Data or Software Engineering 
               internship or junior positions starting in January 2025.
             </p>
