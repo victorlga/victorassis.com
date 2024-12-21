@@ -19,7 +19,7 @@ export default function RootLayout({
   return (
       <html lang="en">
         <head>
-          <title>Victor Assis - CompBio</title>
+          <title>Victor Assis - Data & Software Engineering</title>
         </head>
         <body className={inter.className}>
           {children}
